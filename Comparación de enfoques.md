@@ -1,0 +1,2 @@
+ISO/IEC 27001 se enfoca en la **gestión continua** de la seguridad mediante un SGSI, basado en el ciclo **Plan-Do-Check-Act (PDCA)**, orientado a procesos y certificación. En cambio, el NIST CSF se centra en la **flexibilidad y madurez**, proporcionando guías adaptables a organizaciones de cualquier tamaño, sin exigir certificación. Esta diferencia hace que ISO/IEC 27001 sea más formal y estructurado, mientras que NIST CSF es más dinámico y práctico.
+[[Aplicación en Colombia]]
